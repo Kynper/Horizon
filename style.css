@@ -7,6 +7,10 @@ body {
     justify-content: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 h1 {
     background-color: #3d3d3d;
     border-radius: 20px 20px 0px 0px;
