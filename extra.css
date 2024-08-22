@@ -51,7 +51,7 @@ img {
     align-items: center;
     background-color: #2b2b2b;
     width: 70%;
-    height: 80vh;
+    height: 75vh;
     margin-top: 5vh;
     border-radius: 20px;
 }
@@ -63,7 +63,7 @@ img {
     flex-wrap: wrap;
     height: 70%;
     overflow-y: scroll;
-    padding-bottom: 5%;
+    padding-bottom: 25%;
     border-radius: 0px 0px 20px 20px;
 }
 
