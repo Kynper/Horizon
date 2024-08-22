@@ -3,7 +3,7 @@
 
 @media (max-width: 500px) {
     #box-geral {
-        margin-top: 10vh;
+        margin-top: 5vh;
         overflow-y: scroll;
     }
     #box-projects {
@@ -16,7 +16,7 @@
 
 @media (max-height: 500px) {
     #box-geral {
-        margin-top: 10vh;
+        margin-top: 5vh;
         overflow-y: scroll;
     }
     .boxes {
