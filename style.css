@@ -88,3 +88,29 @@ button:hover {
     color: white;
     border: solid 1px white;
 }
+
+@media (max-width: 500px) {
+    #box-geral {
+        margin-top: 10vh;
+        overflow-y: scroll;
+    }
+    #box-projects {
+        padding-bottom: 400px;
+    }
+    .boxes {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-height: 500px) {
+    #box-geral {
+        margin-top: 10vh;
+        overflow-y: scroll;
+    }
+    .boxes {
+        margin-bottom: 20px;
+    }
+    #box-projects {
+        padding-bottom: 300px;
+    }
+}
